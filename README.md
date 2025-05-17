@@ -1,6 +1,6 @@
 <h1 align="center"><u>Termux Banner</u></h1>
 
-<a href="https" target="_blank">
+<a href="https://youtu.be/BZWQyt7NCcg" target="_blank">
   <img src="https://github.com/Masterdas/Banner/blob/main/Screenshot_2025_0517_191141.png?raw=true" alt="Image">
 </a>
 
