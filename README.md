@@ -21,13 +21,13 @@ pkg install git
 git clone https://github.com/Masterdas/Banner.git
 ```
 ```
-cd Banner && bash setup.sh
+cd Banner
+```
+```
+bash setup.sh
 ```
 ```
 exit
-```
-```
-
 ```
 
 ### Instagram Delete and Remove Comment
