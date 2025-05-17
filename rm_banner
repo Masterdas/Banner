@@ -1,0 +1,5 @@
+rm /data/data/com.termux/files/usr/etc/bash.bashrc
+cd /data/data/com.termux/files/usr/etc/lib
+mv bash.bashrc /data/data/com.termux/files/usr/etc/
+
+echo -e '\033[1;96m' "Exit Termux and Restart your termux"
